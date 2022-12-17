@@ -1,0 +1,91 @@
+.y-heading{
+margin-top: 22px;
+text-indent: 60px;
+word-spacing: 20px;
+; 
+}
+.y-heading1{
+font-size: xx-large;
+color: white;
+border: 2px solid ;
+border-color:gold;
+background-color: gold;
+padding-left:20px;
+padding-right: 20px;
+padding-top: 20px;
+padding-bottom: 20px;
+/* object-fit: contain; */
+}
+#y-head{
+float: right;
+/* display: flex; */
+/* margin-right: 50px;
+margin-top: ; */
+margin: auto 50px auto auto;}
+.y-heading3{
+word-spacing: normal;
+}
+h1{
+font-size: small;
+text-decoration: none;
+
+}
+h1,a{
+text-decoration: none;
+}
+hr{
+margin-top: 50px;
+width: 100%;
+}
+/* .y-heading2{
+font-family: sans-serif;
+font-weight: lighter;
+font-size: 16px;
+}
+.y-heading3{
+margin-left: 10px;
+word-spacing: normal;
+}
+button{
+margin-left: 10px;
+font-size: 18px;
+cursor: pointer;
+font-weight: 700;
+color: white;
+background-color: #fda942;
+border:#fda942 ;
+padding-top: 5px;
+padding-left:10px;
+text-align:center;
+border-radius:5px ;
+padding-bottom: 5px;
+font-family:Avenir,ui-sans-serif,system-ui,
+-apple-system,BlinkMacSystemFont,
+Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif,Apple
+Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji ;
+}
+.y-setup{
+margin-top: 50px;
+font-weight: 200;
+font-size: 24px;
+position: relative;
+color: #268bd2;
+    
+}
+.y-setup2{
+margin-left: 70px;
+
+}
+.y-setup3{
+margin-left: 140px;    
+}
+.stats{
+margin-top:-45px;
+margin-left:-200px;
+text-align: center;
+word-spacing: normal;
+}
+.stats1{
+margin-top: -45px;
+position: relative; 
+} */
